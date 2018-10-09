@@ -34,4 +34,4 @@ This Code of Conduct was adapted from,
 
 * [JS Conf.eu Code of Conduct]( http://2014.jsconf.eu/code-of-conduct.html).
   
-* nodeschool berlin](https://github.com/nodeschool/berlin/blob/master/codeofconduct.md).
+* [nodeschool berlin](https://github.com/nodeschool/berlin/blob/master/codeofconduct.md).
