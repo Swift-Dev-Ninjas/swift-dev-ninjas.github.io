@@ -1,0 +1,21 @@
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <a href="https://vapor.codes/" target="_blank">
+                    Built with Vapor
+                </a>
+            </div>
+            <div class="col-4 text-center">
+                <!-- css hides all other versions except the first (newest) one -->
+                #for(version in appInfo.versions) {
+                <a class="version-list" href="/version"> #(version.major).#(version.minor).#(version.patch) </a>
+                }
+            </div>
+            <div class="col-4 text-right">
+                <a href="/about"> About </a>
+                <a href="/imprint" class="m-l-20"> Imprint </a>
+            </div>
+        </div>
+    </div>
+</footer>
