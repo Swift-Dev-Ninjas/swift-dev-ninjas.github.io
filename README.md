@@ -2,7 +2,7 @@
 
 ## Colearning
 
-Welcome to Swift Dev Ninjas Colearning, a bi-weekly meetup dedicated to helping people learn [Swift]! You can RSVP for one of our meetups on the [Swift-Dev-Ninjas] meetup page. We usually meet up every 2 weeks at the Co.up Community office in Berlin-Kreuzberg.
+Welcome to Swift Dev Ninjas Colearning, a bi-weekly meetup dedicated to helping people learn [Swift]! You can RSVP for one of our meetups on the [Swift Dev Ninjas] meetup page. We usually meet up every 2 weeks at the Co.up Community office in Berlin-Kreuzberg.
 
 Join us on [Slack]
 
