@@ -6,11 +6,11 @@ All attendees, speakers, sponsors and volunteers at Swift Dev Ninjas are require
 
 ## Need Help? Contact Finn
 
-Contact | Akarsh Seggemu
+Contact | Akarsh Seggemu | Anthony Sherrill
 --- | ---
-Twitter | [@akarshseggemu](https://twitter.com/akarshseggemu)
-Email | sakarshkumar[at]gmail[dot]com
-Phone | +4915752417519
+Twitter | [@akarshseggemu](https://twitter.com/akarshseggemu) | [@jigg4](https://twitter.com/jiGg4)
+Email | sakarshkumar[at]gmail[dot]com | ASherrill@me.com
+Phone | +4915752417519 | +49 (0)171 49 65 186
 
 ## The Quick Version
 
