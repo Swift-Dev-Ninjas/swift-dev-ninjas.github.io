@@ -4,13 +4,13 @@ All attendees, speakers, sponsors and volunteers at Swift Dev Ninjas are require
 
 *tl:dr: Do not harass people. Be awesome to each other.*
 
-## Need Help? Contact Finn
+## Need Help? Contact organisers
 
-Contact | Akarsh Seggemu
+Contact | Akarsh Seggemu | Anthony Sherrill
 --- | ---
-Twitter | [@akarshseggemu](https://twitter.com/akarshseggemu)
-Email | sakarshkumar[at]gmail[dot]com
-Phone | +4915752417519
+Twitter | [@akarshseggemu](https://twitter.com/akarshseggemu) | [@jigg4](https://twitter.com/jiGg4)
+Email | sakarshkumar[at]gmail[dot]com | ASherrill@me.com
+Phone | +4915752417519 | +49 (0)171 49 65 186
 
 ## The Quick Version
 
@@ -24,7 +24,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please conctact an organizer or mentor. We will tell you who are responsible at the beginning of the event. You can also contact Finn directly (info above).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please conctact an organizer or mentor. We will tell you who are responsible at the beginning of the event. You can also contact organisers directly (info above).
 
 We are happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe. We value your attendance.
 
