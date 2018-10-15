@@ -1,0 +1,8 @@
+.version-view ul {
+    padding: 15px;
+    margin: 0;
+}
+
+.version-view .card-body {
+    padding: .9rem;
+}
