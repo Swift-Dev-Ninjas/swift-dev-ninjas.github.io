@@ -1,21 +1,17 @@
-#set("title") { VaporBerlin }
-
-#set("content") {
-<div class="index-view">
-    <h1 class="text-center m-b-60 m-t-60"><strong> Swift Dev Ninjas </strong></h1>
-    
-    <div class="row justify-content-center">
-        <div class="card col-5">
-            <div class="card-body">
-                <a class="link-overlay" href="https://www.meetup.com/Swift-Dev-Ninjas/" target="_blank"></a>
-                <h6 class="card-title text-dark text-center">
-                    <strong>JOIN THE MEETUP</strong>
-                </h6>
-                <img src="/images/meetup_logo.png" alt="meetup-logo" />
+<div class="container">
+    <div class="index-view">
+        <h1 class="text-center m-b-60 m-t-60"><strong> Swift Dev Ninjas </strong></h1>
+        
+        <div class="row justify-content-center">
+            <div class="card col-5">
+                <div class="card-body">
+                    <a class="link-overlay" href="https://www.meetup.com/Swift-Dev-Ninjas/" target="_blank"></a>
+                    <h6 class="card-title text-dark text-center">
+                        <strong>JOIN THE MEETUP</strong>
+                    </h6>
+                    <img src="/images/meetup_logo.png" alt="meetup-logo" />
+                </div>
             </div>
         </div>
     </div>
 </div>
-}
-
-#embed("Layout/base")
