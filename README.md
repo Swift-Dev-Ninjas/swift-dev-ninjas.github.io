@@ -21,6 +21,6 @@ Please see the [code of conduct]
 [Swift]: http://swift.org
 [Swift Dev Ninjas]: https://www.meetup.com/Swift-Dev-Ninjas
 [Slack]: https://join.slack.com/t/swiftdevninjas/shared_invite/enQtNDEzNTQyNjQ3ODQ0LTJmY2E5MDRiNzA4OTE3YjBhOWE2YThhMTJhNDUxZmVjYTU2OWZjNzlmNzk0NDY1YzY0YTU1OGMzODBiYTMwYmI
-[getting started help]: (getting-started-help.md)
-[contributing]: (CONTRIBUTING.md)
-[code of conduct]: (codeofconduct.md)
+[getting started help]: getting-started-help.md
+[contributing]: CONTRIBUTING.md
+[code of conduct]: codeofconduct.md
