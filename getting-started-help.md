@@ -13,7 +13,7 @@ After downloading the repository.
 2. Run the following command,
     ```
     swift package update
-    vapor xcocde
+    vapor xcode
     ```
     in the terminal to update the packages and open the project in xcode.
 
