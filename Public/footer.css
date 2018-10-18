@@ -1,0 +1,33 @@
+/* Sticky footer styles
+ -------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 40px;
+    line-height: 40px; /* Vertically center the text there */
+    background-color: #f46a78;
+    color: #ffffff;
+}
+
+.footer a {
+    color: #ffffff;
+}
+
+/* trick to only display the first element of
+ * the array of versions thus the 'newest'.
+ */
+.footer .version-list:nth-child(n+2) {
+    display: none;
+}

@@ -1,0 +1,55 @@
+.index-view .row {
+    flex-flow: column;
+    align-items: center;
+}
+
+.index-view .card {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    max-width: 350px;
+    margin-bottom: 30px;
+}
+
+.index-view .card img {
+    width: 210px;
+    margin-top: 25px;
+}
+
+.index-view .card .btn {
+    background-color: #ec2440;
+    color: #ffffff;
+    font-style: italic;
+    display: flex;
+    margin-top: 55px;
+    font-size: 14px;
+}
+
+.index-view .card .btn span {
+    line-height: 1.7;
+}
+
+@media screen and (min-width: 768px) {
+    .index-view .row {
+        flex-flow: row;
+    }
+    
+    .index-view .card:first-child {
+        margin-right: 25px;
+    }
+    
+    .index-view .card:last-child {
+        margin-left: 25px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .index-view .card:first-child {
+        margin-right: 40px;
+    }
+    
+    .index-view .card:last-child {
+        margin-left: 40px;
+    }
+}
