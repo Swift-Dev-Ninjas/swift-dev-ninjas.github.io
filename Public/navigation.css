@@ -14,6 +14,7 @@ nav.navbar a:hover {
 
 nav.navbar .brand {
     font-weight: 500;
+    color: black;
 }
 
 nav .navigation {
@@ -37,4 +38,8 @@ nav .navigation input.nav-link:hover {
     cursor: pointer;
     text-decoration: underline;
     outline: none;
+}
+
+nav.brand {
+    text-align: center;
 }

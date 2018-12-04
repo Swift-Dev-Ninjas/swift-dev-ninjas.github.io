@@ -1,6 +1,6 @@
 <div class="container">
     <div class="index-view">
-        <h1 class="text-center m-b-60 m-t-60"><strong> Swift Dev Ninjas </strong></h1>
+        <h1 class="text-center m-b-60 m-t-60"><strong> Swift Dev Ninjas INDEX</strong></h1>
         
         <div class="row justify-content-center">
             <div class="card col-5">
@@ -9,7 +9,7 @@
                     <h6 class="card-title text-dark text-center">
                         <strong>JOIN THE MEETUP</strong>
                     </h6>
-                    <img src="/images/meetup_logo.png" alt="meetup-logo" />
+                    <a href="https://www.meetup.com/de-DE/Swift-Dev-Ninjas/" target="_blank"><img src="/images/meetup_logo.png" alt="meetup-logo" /></a>
                 </div>
             </div>
         </div>
