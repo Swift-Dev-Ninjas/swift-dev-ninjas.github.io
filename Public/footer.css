@@ -21,8 +21,9 @@ body {
     color: #ffffff;
 }
 
-.footer a {
+p {
     color: #ffffff;
+    text-align: center;
 }
 
 /* trick to only display the first element of

@@ -1,5 +1,8 @@
 <nav class="navbar">
     <div class="container">
-        <a class="brand" href="/">Swift Dev Ninjas NAV</a>
+        <div class="col-4 text-right">
+        <a href="/about"> About </a>
+        <a href="/imprint" class="m-l-20"> Imprint </a>
+        </div>
     </div>
 </nav>
