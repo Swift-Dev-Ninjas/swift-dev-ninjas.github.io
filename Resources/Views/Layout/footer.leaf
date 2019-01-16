@@ -1,7 +1,5 @@
-<footer class="footer">
-    <div class="container">
-        <p>
-            Built with ❤️ by A & A
-        </p>
-    </div>
-</footer>
+<div class="container footer">
+    <p>
+        Built with ❤️ by A & A
+    </p>
+</div>
