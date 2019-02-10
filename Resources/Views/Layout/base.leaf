@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Swift Dev Ninjas BASE</title>
+        <title>Swift Dev Ninjas</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:100,300, 300i,700">
         <link rel="stylesheet" href="/index.css">
@@ -11,8 +11,8 @@
         <link rel="stylesheet" href="/navigation.css">
     </head>
     <body>
-        #embed("Layout/navigation")
         #embed("Layout/index")
+        #embed("Layout/navigation")
         #embed("Layout/footer")
     </body>
 </html>

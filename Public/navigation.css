@@ -1,45 +1,20 @@
-nav.navbar {
+.bottom-bar {
     color: #ffffff;
-    height: 50px;
-    font-size: 22px;
+    height: 22px;
+    font-size: 18px;
+    margin-top: 310px;
+    margin-left: 15px;
 }
 
-nav.navbar a {
-    color: #ffffff;
+.box {
+    border-radius: 25px;
+    border: 1px solid rgba(0, 0, 0, .2);
 }
 
-nav.navbar a:hover {
+.bottom-bar a {
+    color: #000000;
+}
+
+.bottom-bar a:hover {
     text-decoration: underline;
-}
-
-nav.navbar .brand {
-    font-weight: 500;
-    color: black;
-}
-
-nav .navigation {
-    display: flex;
-    font-weight: 300;
-}
-
-nav .navigation a:last-child,
-nav .navigation input:last-child {
-    padding-right: 0;
-}
-
-nav .navigation input.nav-link {
-    background: transparent;
-    border: none;
-    color: #ffffff;
-    font-weight: 300;
-}
-
-nav .navigation input.nav-link:hover {
-    cursor: pointer;
-    text-decoration: underline;
-    outline: none;
-}
-
-nav.brand {
-    text-align: center;
 }
